@@ -44,18 +44,19 @@ This project directly tackles **Theme 5: Digital Forensics Mini-Lab** and addres
 - Python 3.9 or higher installed on your system.
 - Git (to clone the repository).
 
-### Step-by-Step Guide
 
-**1. Clone the Repository**
+**Clone the Repository**
 ```bash
 git clone https://github.com/prasanna2056525/CogniTrace-AI-Powered-Digital-Forensics-Incident-Response-DFIR-Assistant-for-cybersecurity-analysts.git
 cd CogniTrace
+
 
 
 <br>
 ### Team Members
 Prasanna Gautam
 Bidya Sharan Adhikari
+</br>
 
 ###  Important Usage Notes, Limitations, and Next Steps
 Usage Notes
