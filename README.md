@@ -30,7 +30,6 @@ This project directly tackles **Theme 5: Digital Forensics Mini-Lab** and addres
 | **Frontend / UI** | Gradio, HTML/CSS (Enterprise Light Theme) |
 | **Machine Learning** | Scikit-learn (Isolation Forest), StandardScaler |
 | **Explainability** | SHAP (Shapley Additive Explanations) |
-| **Generative AI** | Hugging Face Transformers (microsoft/phi-2) |
 | **Data Processing** | Pandas, NumPy |
 | **Visualization** | Plotly (Interactive charts), Matplotlib |
 | **Environment** | Python 3.9+ |
@@ -50,13 +49,14 @@ This project directly tackles **Theme 5: Digital Forensics Mini-Lab** and addres
 git clone https://github.com/prasanna2056525/CogniTrace-AI-Powered-Digital-Forensics-Incident-Response-DFIR-Assistant-for-cybersecurity-analysts.git
 cd CogniTrace
 
+---
 
 
-<br>
 ### Team Members
 Prasanna Gautam
 Bidya Sharan Adhikari
-</br>
+
+---
 
 ###  Important Usage Notes, Limitations, and Next Steps
 Usage Notes
