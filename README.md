@@ -50,3 +50,22 @@ This project directly tackles **Theme 5: Digital Forensics Mini-Lab** and addres
 ```bash
 git clone https://github.com/prasanna2056525/CogniTrace-AI-Powered-Digital-Forensics-Incident-Response-DFIR-Assistant-for-cybersecurity-analysts.git
 cd CogniTrace
+
+### Team Members
+Prasanna Gautam
+Bidya Sharan Adhikari
+
+###  Important Usage Notes, Limitations, and Next Steps
+Usage Notes
+Input Format: The tool accepts .csv or .log files with a standard tabular structure. At least 2 numeric columns are required for the ML engine.
+
+Auto-Processing: The system automatically detects timestamp columns, flags dangerous ports (e.g., 22, 3389, 4444), and creates behavioral features (IP frequency).
+
+Offline Capability: The core ML and SHAP engines run entirely offline. The LLM (Phi-2) requires an internet connection for the first run to download the model weights (approx. 1.5GB).
+
+Limitations
+Data Size: The current implementation is optimized for logs up to 50,000 rows. Larger files may increase processing time.
+
+LLM Availability: If the transformers library fails to load Phi-2 (due to network or memory constraints), the system automatically falls back to a structured template-based report—ensuring the demo never breaks.
+
+Feature Scope: The SHAP explainer focuses on the top 3 anomalies to maintain speed. Full dataset explainability is a future enhancement.
