@@ -48,5 +48,5 @@ This project directly tackles **Theme 5: Digital Forensics Mini-Lab** and addres
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/CogniTrace.git
+git clone https://github.com/prasanna2056525/CogniTrace-AI-Powered-Digital-Forensics-Incident-Response-DFIR-Assistant-for-cybersecurity-analysts.git
 cd CogniTrace
