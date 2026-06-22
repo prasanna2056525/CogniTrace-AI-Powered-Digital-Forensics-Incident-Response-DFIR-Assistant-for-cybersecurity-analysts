@@ -1,0 +1,2 @@
+# CogniTrace-AI-Powered-Digital-Forensics-Incident-Response-DFIR-Assistant-for-cybersecurity-analysts
+CogniTrace is an AI-driven DFIR assistant. Upload network logs; it uses Isolation Forest ML to detect anomalies, SHAP to explain why they're suspicious, and a GenAI engine to auto-generate a plain-English incident response report with recommended actions. It transforms raw data into actionable cybersecurity intelligence.
